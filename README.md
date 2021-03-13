@@ -32,6 +32,7 @@ The string V occurs 2 times in the string GUVITECHGUVITECH, so the output is 2.
 Testcase 1:
 
 Input:
+
 GUVIGUVITECHTECHGUVITECHGUVIGUVITECHTECHGUVITECHGUVIGUVITECHTECHGUVITECH\n
 H
 
